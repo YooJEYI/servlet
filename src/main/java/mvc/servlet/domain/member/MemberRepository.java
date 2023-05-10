@@ -1,4 +1,4 @@
-package mvc.servlet.basic.domain.member;
+package mvc.servlet.domain.member;
 
 import java.util.ArrayList;
 import java.util.HashMap;

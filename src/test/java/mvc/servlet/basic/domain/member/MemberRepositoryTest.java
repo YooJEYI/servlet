@@ -1,7 +1,8 @@
 package mvc.servlet.basic.domain.member;
 
 
-import org.assertj.core.api.Assertions;
+import mvc.servlet.domain.member.Member;
+import mvc.servlet.domain.member.MemberRepository;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
 
