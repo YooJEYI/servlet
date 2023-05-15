@@ -4,8 +4,6 @@ import mvc.servlet.domain.member.Member;
 import mvc.servlet.domain.member.MemberRepository;
 import mvc.servlet.web.frontcontroller.MyView;
 import mvc.servlet.web.frontcontroller.v2.ControllerV2;
-
-import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
